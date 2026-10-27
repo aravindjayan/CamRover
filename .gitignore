@@ -1,0 +1,7 @@
+# KiCad generated cache and local UI state
+camRover_pcb/**/fp-info-cache
+camRover_pcb/**/*.kicad_prl
+camRover_pcb/**/*.lck
+
+# Explicitly omit the separate line follower project
+/line_follower/
